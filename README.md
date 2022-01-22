@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning the basic of software engineering starting with python. Next stop is going to be JS, HTML, and CSS. I'm also currently studying as a psychology student.
 - 💞️ I’m looking to collaborate on projects that can help me grow.
 - 📫 How to reach me:
-email: stanley.luis25@outlook.com
+email: stanley.luis25@gmail.com
+linkedin: https://www.linkedin.com/in/stanley-luis-2a15b0219/
 instagram: stanley_luis25
 
 <!---
